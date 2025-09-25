@@ -1,0 +1,5 @@
+pandas
+scipy
+streamlist
+plotly
+plotly-express
